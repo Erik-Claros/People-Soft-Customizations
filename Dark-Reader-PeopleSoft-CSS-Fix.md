@@ -7,12 +7,10 @@
 4. Copy and paste CSS at the end of the file
 5. Hit apply 
 
-```
-css
+```css
 ================================
 rcbb.pshe.lsuhsc.edu
 
-CSS
 #PSTAB a span {
     background: #1e1e1e !important;
     color: #dddddd !important;
