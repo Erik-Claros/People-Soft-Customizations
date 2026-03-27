@@ -1,4 +1,4 @@
-# This CSS is dedicated to fixing some of the items that Dark Reader misses in turning into "Dark Mode" or items that are messed up
+# Custom Dark Mode Fixes for PeopleSoft UI
 
 ## Steps to adding this CSS into Dark Reader are:
 1. Open Dark Reader
